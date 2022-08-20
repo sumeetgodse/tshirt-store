@@ -1,0 +1,15 @@
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 1.5rem;
+  overflow: hidden;
+  background-color: #e0e0e0;
+  font-weight: bold;
+  font-size: large;
+  width: 100%;
+}
+
+.nav-item {
+  float: left;
+  padding-right: 1.5rem;
+}

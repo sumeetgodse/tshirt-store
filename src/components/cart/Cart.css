@@ -1,0 +1,27 @@
+.name-price {
+  font-weight: bold;
+}
+
+table{
+  margin: 0 auto;
+}
+
+.cart-img{
+  height: 100px;
+  width: 100px;
+}
+
+.item-data{
+  padding: 10px 20px;
+  border: 1px solid #e0e0e0;
+}
+
+h2{
+  padding: 20px;
+}
+
+@media (max-width: 600px) {
+  .item-data{
+    padding: 5px 10px;
+  }
+}
